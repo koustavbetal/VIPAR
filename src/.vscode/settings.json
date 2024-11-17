@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/launch_param_builder/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/kobe/workSpace/ros_WS/moveit2_ws/install/launch_param_builder/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

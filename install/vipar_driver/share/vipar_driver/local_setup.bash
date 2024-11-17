@@ -1,0 +1,1 @@
+/home/kobe/workSpace/ros_WS/vipar_ws/build/vipar_driver/ament_cmake_environment_hooks/local_setup.bash

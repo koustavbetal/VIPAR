@@ -1,0 +1,16 @@
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/lib/vipar_driver/mpu6050
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/ament_index/resource_index/package_run_dependencies/vipar_driver
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/ament_index/resource_index/parent_prefix_path/vipar_driver
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/environment/ament_prefix_path.sh
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/environment/ament_prefix_path.dsv
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/environment/path.sh
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/environment/path.dsv
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/local_setup.bash
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/local_setup.sh
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/local_setup.zsh
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/local_setup.dsv
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/package.dsv
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/ament_index/resource_index/packages/vipar_driver
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/cmake/vipar_driverConfig.cmake
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/cmake/vipar_driverConfig-version.cmake
+/home/kobe/workSpace/ros_WS/vipar_ws/install/vipar_driver/share/vipar_driver/package.xml
